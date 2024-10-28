@@ -1,6 +1,4 @@
-This is a simple UI component that displays a QR code, 
-
-built as part of a project on Frontend Mentor. 
+This is a simple UI component that displays a QR code. 
 
 The goal of this project was to replicate a QRcode 
 
