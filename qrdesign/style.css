@@ -28,7 +28,7 @@
     padding: 16px;
     border-radius: 1rem;
     background-color: hsl(0, 0%, 100%);
-    overflow: auto;
+    overflow: hidden;
 }
 
 .box img {
