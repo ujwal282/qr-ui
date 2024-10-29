@@ -17,3 +17,5 @@ Responsive design
 Minimalistic styling
 
 QR code linking to Frontend Mentor
+
+#Demo (https://onlineqr.tiiny.site/)
